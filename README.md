@@ -19,6 +19,14 @@ A Euchre game and tutorial for the [Light Phone III](https://www.thelightphone.c
 
 Everything is built from the Light SDK's own primitives (`LightText`, `LightTopBar`, `LightBottomBar`, `LightScrollView`, …), so it reads as a native LightOS tool — monochrome, text-forward, no chrome beyond what the SDK gives you.
 
+## Install the APK
+
+Grab the latest signed build from [Releases](https://github.com/rn-os/light-euchre/releases/latest) and sideload it — or scan this on the Light Phone III's browser to jump straight there:
+
+<p align="center">
+  <img src="docs/install-qr.png" width="160" alt="QR code linking to the latest release">
+</p>
+
 ## Getting started
 
 ```sh
